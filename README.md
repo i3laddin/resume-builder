@@ -13,6 +13,9 @@ This project is a web application named **Resume Builder** that allows users to 
 
 ---
 
+## AI used 
+- **chatGpt**: https://drive.google.com/file/d/1EalN6twIMVKQL3UY_31mqu4jfRApMJ1a/view
+
 ## Getting Started
 
 ### Installation
