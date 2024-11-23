@@ -35,7 +35,7 @@ Open your browser at http://localhost:3000 to access the app.
 - **React**: Core framework for building the user interface.
 - **TypeScript**: Enables type safety and improves developer experience.
 - **Tailwind CSS**: Provides utilities for creating a responsive and modern design.
-- **React-to-Print**: Facilitates converting the resume preview to a downloadable PDF.
+- **React-to-PDF**: Facilitates converting the resume preview to a downloadable PDF.
 - **Lucide React**: Offers clean and lightweight SVG icons.
 - **Shadcn UI**: Ensures consistent and accessible UI components.
 
